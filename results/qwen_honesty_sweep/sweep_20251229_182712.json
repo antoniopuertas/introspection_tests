@@ -1,0 +1,42 @@
+{
+  "model": "qwen",
+  "concept": "honesty",
+  "timestamp": "20251229_182712",
+  "best_coefficient": 1.0,
+  "sweet_spot_range": [
+    1.0,
+    5.0
+  ],
+  "coefficients": {
+    "1.0": {
+      "detection_rate": 0.0,
+      "accuracy": 0.0,
+      "incoherence_rate": 0.0,
+      "score": 0.0
+    },
+    "2.0": {
+      "detection_rate": 0.0,
+      "accuracy": 0.0,
+      "incoherence_rate": 0.0,
+      "score": 0.0
+    },
+    "3.0": {
+      "detection_rate": 0.0,
+      "accuracy": 0.0,
+      "incoherence_rate": 0.0,
+      "score": 0.0
+    },
+    "4.0": {
+      "detection_rate": 0.0,
+      "accuracy": 0.6666666666666666,
+      "incoherence_rate": 0.0,
+      "score": 0.0
+    },
+    "5.0": {
+      "detection_rate": 0.0,
+      "accuracy": 0.3333333333333333,
+      "incoherence_rate": 0.0,
+      "score": 0.0
+    }
+  }
+}
